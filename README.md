@@ -1,3 +1,5 @@
+# Huge thanks to "amineboutarfi"
+
 # Google Maps Scraper
 
 This is simple scraper that uses Playwright to extract data from Google Maps. 
